@@ -1,0 +1,35 @@
+# Student GPA Prediction
+
+This project predicts the Grade Point Average (GPA) of students using machine learning algorithms.
+
+## Project Description
+The objective of this project is to analyze student-related features and predict their GPA based on academic and behavioral factors.
+
+## Dataset
+- Student performance dataset
+- Features include study time, attendance, and other academic parameters
+
+Note: The dataset is not uploaded due to file size limitations.
+
+## Methodology
+1. Load and preprocess the dataset
+2. Split data into training and testing sets
+3. Train a regression model
+4. Evaluate model performance using R² score
+5. Predict GPA for new inputs
+
+## Algorithm Used
+- Linear Regression
+
+## Tools and Technologies
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Scikit-learn
+
+## Result
+The model was able to predict student GPA with reasonable accuracy.
+
+## Conclusion
+This project demonstrates how machine learning can be applied to predict academic performance.
